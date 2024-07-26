@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njeeevan2216
 - 👀 I’m interested in Software Developing and Game Developement
-- 🌱 I’m currently learning COmputer Science
+- 🌱 I’m currently learning Computer Architecure and MERN Stack Developement
 - 💞️ I’m looking to collaborate on Any python based project
 - 📫 Reach me through linked in https://www.linkedin.com/in/jeevan-nagrajan-567908251/
 - 😄 Pronouns: he/him
