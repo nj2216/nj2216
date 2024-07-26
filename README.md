@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developing and Game Developement
 - 🌱 I’m currently learning COmputer Science
 - 💞️ I’m looking to collaborate on Any python based project
-- 📫 How to reach me reach me through linked in https://www.linkedin.com/in/jeevan-nagrajan-567908251/
+- 📫 Reach me through linked in https://www.linkedin.com/in/jeevan-nagrajan-567908251/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont like snakes yet I am a python developer
 
