@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developing and Game Developement
 - 🌱 I’m currently learning Computer Architecure and MERN Stack Developement
 - 💞️ I’m looking to collaborate on ANY python based project
-- 📫 Reach me through linked in (@nj2216)[https://www.linkedin.com/in/nj2216/]
+- 📫 Reach me through linked in [@nj2216](https://www.linkedin.com/in/nj2216/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont like snakes yet I am a python developer😇
 
