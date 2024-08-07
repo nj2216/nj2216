@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @njeeevan2216
+- 👋 Hi, I’m [@njeeevan2216](https://github.com/njeeevan2216/)
 - 👀 I’m interested in Software Developing and Game Developement
 - 🌱 I’m currently learning Computer Architecure and MERN Stack Developement
 - 💞️ I’m looking to collaborate on ANY python based project
