@@ -5,7 +5,8 @@
 - 📫 Reach me through linked in [@nj2216](https://www.linkedin.com/in/nj2216/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont like snakes yet I am a python developer😇
-- Check out my recent project [LAN-MDH-Streams](https://github.com/njeeevan2216/LAN-MDH-Streams) a web based LAN media player made with flask-python
+- 😁 Check out my recent project [LAN-MDH-Streams](https://github.com/njeeevan2216/LAN-MDH-Streams) a web based LAN media player made with flask-python
+- 😎 I currently work in deploying a Hostel Banking Services framework.
 
 <!---
 njeeevan2216/njeeevan2216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
