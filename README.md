@@ -4,7 +4,7 @@
 <p align="center">
   💻 Software & Game Developer <br/>
   🎓 BSc Computer Science Student <br/>
-  🌐 <a href="https://njeevan.vercel.app">njeevan.vercel.app</a>
+  🌐 <a href="https://njeevan.vercel.app" target="_blank">njeevan.vercel.app</a>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Let’s make something awesome together!
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://njeevan.vercel.app">
+  <a href="https://njeevan.vercel.app" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=vercel&logoColor=black" />
@@ -84,7 +84,7 @@ Let’s make something awesome together!
   </picture>
   </a>
 
-  <a href="https://www.linkedin.com/in/nj2216/">
+  <a href="https://www.linkedin.com/in/nj2216/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -92,7 +92,7 @@ Let’s make something awesome together!
   </picture>
   </a>
 
-  <a href="https://github.com/nj2216/">
+  <a href="https://github.com/nj2216/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
