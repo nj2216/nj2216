@@ -39,7 +39,7 @@ Let’s make something awesome together!
 
 | 💡 Project | 🧾 Description | 🧰 Stack |
 |-------------|----------------|----------|
-| 💊 **MedPlay / MedPlayUIVV** *(Private)* | Web-based LAN media player | Flask, Python, JS |
+| 🎵 **MedPlay** | Web-based media player | Flask, Python, JS |
 | 🩺 **Healthcare Dashboard** *(Private)* | Health monitoring & analytics dashboard | TypeScript, React |
 | 🧩 **Jvincipy** | Python DSL to write HTML using objects | Python |
 | 🪄 **Jyinit** | Cookiecutter-style project scaffolder | Python |
