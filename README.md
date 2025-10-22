@@ -27,8 +27,8 @@ Let’s make something awesome together!
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,flask,django,nodejs,cpp,java,git,vercel,linux&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,flask,django,nodejs,cpp,java,git,vercel,linux&theme=light" />
+    <source media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,flask,django,nodejs,cpp,java,git,vercel,linux&theme=dark" />
+    <source media="(prefers-color-scheme: light)" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,flask,django,nodejs,cpp,java,git,vercel,linux&theme=light" />
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,flask,django,nodejs,cpp,java,git,vercel,linux" alt="Tech Stack Icons" />
   </picture>
 </p>
