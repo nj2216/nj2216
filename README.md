@@ -76,23 +76,29 @@ Let’s make something awesome together!
 ### 📫 Connect with Me
 
 <p align="center">
+  <a href="https://njeevan.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=vercel&logoColor=black" />
     <img alt="Website" src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </picture>
+  </a>
 
+  <a href="https://www.linkedin.com/in/nj2216/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </picture>
+  </a>
 
+  <a href="https://github.com/nj2216/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </picture>
+  </a>
 </p>
 
 ---
